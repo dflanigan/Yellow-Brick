@@ -6,6 +6,7 @@ This file added in the apple branch
  * Red Delicious 
  * Pink Lady
  * Honey Crisp
+ * Winesap
 
  
 
