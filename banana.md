@@ -2,3 +2,4 @@
 
 * Ecuador
 * Costa Rica
+* Colombia
