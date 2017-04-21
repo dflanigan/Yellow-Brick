@@ -6,6 +6,8 @@ A list of cherry trees
 * Sargent's Cherry
 * Waterloo
 * Bing
+* Waterloo
+
 
 
 
